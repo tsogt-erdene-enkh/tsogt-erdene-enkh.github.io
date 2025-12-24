@@ -12,3 +12,13 @@ body {
 .container {
     display: flex;
 }
+
+.form {
+    padding: 10px;
+}
+
+.form input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}

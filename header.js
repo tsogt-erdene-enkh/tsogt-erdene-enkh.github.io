@@ -1,1 +1,2 @@
-document.write('Loading...')
+document.write('<div class="loading">Loading...</div>')
+

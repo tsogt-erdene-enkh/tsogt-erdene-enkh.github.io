@@ -15,7 +15,7 @@ body {
 }
 
 .articlebtn {
-    padding: 10px 5px 15px 5px;
+    padding: 20px 5px 20px 5px;
 }
 
 #article1 {
@@ -24,4 +24,8 @@ body {
 
 .container {
     display: flex;
+}
+
+.loading {
+    display: none;
 }
