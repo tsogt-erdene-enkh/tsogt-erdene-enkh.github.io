@@ -8,4 +8,4 @@ This is my personal website, and I do stuff here.
 
 ## How to access the website?
 
-Click [here](https://github.com/tsogt-erdene-enkh/tsogt-erdene-enkh.github.io/tree/master)
+Click [here](https://tsogt-erdene-enkh.github.io)
