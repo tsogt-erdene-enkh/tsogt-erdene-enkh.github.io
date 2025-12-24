@@ -57,3 +57,7 @@ body {
 .loading {
     display: none;
 }
+
+.content {
+    margin-left: 50px;
+}
