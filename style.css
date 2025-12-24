@@ -1,0 +1,27 @@
+body {
+    font-size: 22px;
+}
+
+.article {
+    display: none;
+    padding: 20px;
+}
+
+.sidebar {
+    display: block;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.articlebtn {
+    padding: 10px 5px 15px 5px;
+}
+
+#article1 {
+    display: block;
+}
+
+.container {
+    display: flex;
+}
