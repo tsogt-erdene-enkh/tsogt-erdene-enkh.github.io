@@ -1,0 +1,14 @@
+body {
+    font-size: 22px;
+}
+
+.sidebar {
+    display: block;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.container {
+    display: flex;
+}
